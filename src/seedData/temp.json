@@ -1,1 +1,79 @@
-[]
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Curry Powder",
+      "price": "$436.37"
+    },
+    {
+      "id": 2,
+      "productName": "Wine - Saint - Bris 2002, Sauv",
+      "price": "$874.10"
+    },
+    {
+      "id": 3,
+      "productName": "Appetizer - Smoked Salmon / Dill",
+      "price": "$335.42"
+    },
+    {
+      "id": 4,
+      "productName": "Lid Coffeecup 12oz D9542b",
+      "price": "$968.65"
+    },
+    {
+      "id": 5,
+      "productName": "Cheese - Cambozola",
+      "price": "$884.93"
+    },
+    {
+      "id": 6,
+      "productName": "Daikon Radish",
+      "price": "$193.81"
+    },
+    {
+      "id": 7,
+      "productName": "Honey - Comb",
+      "price": "$58.54"
+    },
+    {
+      "id": 8,
+      "productName": "Butter - Salted",
+      "price": "$415.54"
+    },
+    {
+      "id": 9,
+      "productName": "Halibut - Fletches",
+      "price": "$137.59"
+    },
+    {
+      "id": 10,
+      "productName": "Halibut - Steaks",
+      "price": "$514.55"
+    },
+    {
+      "id": 11,
+      "productName": "Coconut Milk - Unsweetened",
+      "price": "$47.24"
+    },
+    {
+      "id": 12,
+      "productName": "Spice - Montreal Steak Spice",
+      "price": "$397.88"
+    },
+    {
+      "id": 13,
+      "productName": "Wine - Magnotta - Red, Baco",
+      "price": "$521.15"
+    },
+    {
+      "id": 14,
+      "productName": "Maintenance Removal Charge",
+      "price": "$838.93"
+    },
+    {
+      "id": 15,
+      "productName": "Mushroom - Chantrelle, Fresh",
+      "price": "$334.85"
+    }
+  ]
+}
